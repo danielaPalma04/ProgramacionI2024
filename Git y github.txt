@@ -1,0 +1,56 @@
+﻿Ingeniería en sistemas 
+tercer ciclo “A”
+Lisbeth Daniela Palma Cisneros
+0907-23-15075
+
+
+
+
+Resumen. 
+
+
+El video del curso de git y github nos muestra la importancia de git para administrar nuestros proyectos. Nos muestra su uso y los comandos más utilizados  para registrar los cambios que se realizan a lo largo del proyecto y como subirlo de una manera fácil al repositorio
+
+
+1. ¿Qué es GIT?
+Git es un sistema que se maneja a través de la consola que sirve para administrar las versiones de un programa o proyecto conforme su desarrollo, este permite registrar los cambios que se hacen en los archivos y volver a versiones anteriores si algo sale mal el cual se puede utilizar en repositorios locales y remotos.
+
+
+2. ¿Cuáles son los comandos más importantes y para que sirven?
+git init: es un comando que se utiliza para ordenar a GIT que iniciaremos con un proyecto nuevo o con un proyecto utilizado anteriormente.
+
+
+git add <file>: Este comando se utiliza para trasladar el proyecto desde el working directory hacia el staging area 
+
+
+git status: Este comando muestra el estado en donde se encuentra el archivo.
+
+
+git commit: Este comando sirve para trasladar el proyecto desde el staging área hacia el repositorio.
+
+
+git push: Se utiliza este comando para subir el proyecto hacia un repositorio remoto y permite el acceso para que otros desarrolladores puedan ver el código.
+
+
+git pull: Este comando sirve para que nosotros podamos traer los cambios que han hecho los otros desarrolladores.
+
+
+git clone: este comando se utiliza para realizar una copia desde el repositorio hasta nuestra máquina. 
+
+
+3. ¿Cuál es la diferencia entre Git y Github?
+la diferencia entre git y github es que:
+git es una herramienta local con la que podemos podemos hacer por medio de líneas de comando en la consola agregar carpetas a nuestro proyecto, saber cual es el estado de nuestro proyecto, trasladarlo y actualizarlo. en el cual podemos crear un historial de todas las modificaciones realizadas a un proyecto, lo que facilita ver versiones anteriores.
+
+
+github, por otro lado, es una plataforma que gestiona y almacena los códigos que se suben por medio de git 
+
+
+4. Enumere los comandos para subir cambios a un repositorio.
+primero para asegurar que todo el proyecto este listo para subir podemos verificar con git status, luego con el comando git remote add origin colocamos link que dirige a nuestro repositorio y por último con el comando  git push -u origin master lo subimos a nuestro repositorio. 
+
+
+5. ¿Qué es una branch  ? 
+
+
+Una branch o rama en español, es una copia de un proyecto de software que se mantiene separada de la línea de desarrollo principal. Se utiliza para trabajar en nuevas funciones o correcciones de errores sin afectar al código principal del proyecto.
