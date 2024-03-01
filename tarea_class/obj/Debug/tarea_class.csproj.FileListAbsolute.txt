@@ -1,0 +1,7 @@
+C:\Users\lpalm\source\repos\tarea_class\tarea_class\bin\Debug\tarea_class.exe.config
+C:\Users\lpalm\source\repos\tarea_class\tarea_class\bin\Debug\tarea_class.exe
+C:\Users\lpalm\source\repos\tarea_class\tarea_class\bin\Debug\tarea_class.pdb
+C:\Users\lpalm\source\repos\tarea_class\tarea_class\obj\Debug\tarea_class.csproj.AssemblyReference.cache
+C:\Users\lpalm\source\repos\tarea_class\tarea_class\obj\Debug\tarea_class.csproj.CoreCompileInputs.cache
+C:\Users\lpalm\source\repos\tarea_class\tarea_class\obj\Debug\tarea_class.exe
+C:\Users\lpalm\source\repos\tarea_class\tarea_class\obj\Debug\tarea_class.pdb
