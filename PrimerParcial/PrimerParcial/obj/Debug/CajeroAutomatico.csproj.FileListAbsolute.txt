@@ -1,0 +1,2 @@
+C:\Users\lpalm\source\repos\PrimerParcial\PrimerParcial\obj\Debug\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\lpalm\source\repos\PrimerParcial\PrimerParcial\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
