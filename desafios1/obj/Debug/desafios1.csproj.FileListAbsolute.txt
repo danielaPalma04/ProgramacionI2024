@@ -1,0 +1,2 @@
+C:\Users\lpalm\source\repos\desafios1\desafios1\obj\Debug\desafios1.csproj.AssemblyReference.cache
+C:\Users\lpalm\source\repos\desafios1\desafios1\obj\Debug\desafios1.csproj.CoreCompileInputs.cache
