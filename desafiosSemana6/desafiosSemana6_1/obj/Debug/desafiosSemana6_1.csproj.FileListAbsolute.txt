@@ -1,0 +1,6 @@
+C:\Users\lpalm\source\repos\desafiosSemana6\desafiosSemana6\bin\Debug\desafiosSemana6.exe.config
+C:\Users\lpalm\source\repos\desafiosSemana6\desafiosSemana6\bin\Debug\desafiosSemana6.exe
+C:\Users\lpalm\source\repos\desafiosSemana6\desafiosSemana6\bin\Debug\desafiosSemana6.pdb
+C:\Users\lpalm\source\repos\desafiosSemana6\desafiosSemana6\obj\Debug\desafiosSemana6_1.csproj.CoreCompileInputs.cache
+C:\Users\lpalm\source\repos\desafiosSemana6\desafiosSemana6\obj\Debug\desafiosSemana6.exe
+C:\Users\lpalm\source\repos\desafiosSemana6\desafiosSemana6\obj\Debug\desafiosSemana6.pdb
