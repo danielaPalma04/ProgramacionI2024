@@ -1,0 +1,30 @@
+﻿<Window x:Class="calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculadora"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Grid.Row="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="txtInput" Grid.Column="0" Grid.RowSpan="2" VerticalAlignment="Top" />
+        <TextBox x:Name="txtOutput" Grid.Column="1" VerticalAlignment="Top" />
+    </Grid>
+
+    <StackPanel Grid.Row="1">
+        <Button x:Name="btnSumar" Content="+" Click="btnSumar_Click" />
+        <Button x:Name="btnRestar" Content="-" Click="btnRestar_Click" />
+        <Button x:Name="btnMultiplicar" Content="*" Click="btnMultiplicar_Click" />
+        <Button x:Name="btnDividir" Content="/" Click="btnDividir_Click" />
+        <Button x:Name="btnRaizCuadrada" Content="√" Click="btnRaizCuadrada_Click" />
+        <Button x:Name="btnPotencia" Content="^" Click="btnPotencia_Click" />
+        <Button x:Name="btnSeno" Content="sin" Click="btnSeno_Click" />
+        <Button x:Name="btnCoseno" Content="cos" Click="btnCoseno_Click" />
+        <Button x:Name="btnTangente" Content="tan" Click="btnTangente_Click" />
+        <Button x:Name="btnMemoria" Content="Memoria" Click="btnMemoria_Click" />
+    </StackPanel> 
